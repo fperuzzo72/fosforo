@@ -1,0 +1,4 @@
+# Os textos e a pasta de dados são pessoais e nunca vão para o repositório.
+fosforo-dados/
+*.zip
+.DS_Store
